@@ -8,7 +8,7 @@ backend:
 
 collections:
   - name: "note"
-    label: "笔记"
+    label: "随笔"
     folder: "src/content/note"
     create: true
     slug: "{{year}}.{{month}}.{{day}}_{{slug}}"
@@ -32,7 +32,7 @@ collections:
       - { label: "正文", name: "body", widget: "markdown" }
 
   - name: "post"
-    label: "博文"
+    label: "札记"
     folder: "src/content/post"
     create: true
     slug: "{{year}}.{{month}}.{{day}}_{{slug}}"
