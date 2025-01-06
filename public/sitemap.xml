@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 12 Generated at: 2025-01-06 09:24:05 -->
+
+  <url>
+    <loc>https://blog.dddwill8.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/about/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/posts/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/notes/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/posts/demo/markdown-elements/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/posts/demo/markdown-elements/admonistions/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/posts/demo/cover-image/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/posts/demo/social-image/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/rss.xml</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/tags/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/notes/demo/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.dddwill8.com/notes/rss.xml</loc>
+    <priority>0.71</priority>
+  </url>
+
+</urlset>
